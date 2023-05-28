@@ -1,7 +1,7 @@
 # a badly made guide/ helper script to enable full virtualizaion in proxmox with nvida gpu (maxwell through pascal archetectures)
 
 # advantages over other guides ive found
-- Host gpu capabilities inproxmox host, LXC, PVE, and VM simultaneously
+- Host gpu capabilities in proxmox host, LXC, PVE, and VM simultaneously
 - enables video output and desktop environment on proxmox host with vGPU 
 
 
